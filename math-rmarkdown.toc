@@ -1,0 +1,11 @@
+\contentsline {section}{Question 1 - Analysis of the Linear Regression Model}{2}{section*.2}
+\contentsline {subsection}{Effectiveness of the predictors of the model}{2}{section*.3}
+\contentsline {subsection}{Recommendation to improve the predictability of the Model}{2}{section*.4}
+\contentsline {section}{Question 2 - Choice of the Best Forecasting Model}{3}{section*.5}
+\contentsline {subsection}{Growth Rate and Average Growth Rate}{3}{section*.6}
+\contentsline {subsection}{The best fit Model}{4}{section*.7}
+\contentsline {section}{Solving the following equations}{4}{section*.8}
+\contentsline {section}{Question - Understanding some concepts about Federal reserve}{5}{section*.9}
+\contentsline {subsection}{How the FED reduces inflation}{6}{section*.10}
+\contentsline {subsection}{The most effective policy of all three policies}{6}{section*.11}
+\contentsline {section}{Bibliography}{6}{section*.12}
