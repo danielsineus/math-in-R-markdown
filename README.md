@@ -1,7 +1,7 @@
 # Math-Project
 This is a document written in the objective of answering certain questions in relation to a linear regression model, a forecasting model, general questions about equation and at last monetary policy of FED. The document is subdivided in four sections. Each section is attempting to elucidate my answers to all the questions, except the third section in which I will only present the solutions to the equations. As to the solution of the equations, they will be presented on a fraction format. This paper has been written in a Markdown format, because I want to use LaTex so the equation can be readable and look attractive to the eyes. It is simply a personal choice. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. 
 
-# Question 1 - Analysis of the Linear Regression Model
+# Question - Analysis of the Linear Regression Model
 
 In fact before going further, in a general way, one of the purposes of having a model is to predict the outcome of a situation when a independent variable changes. They can allow people to simulate scenarios. 
 We will analyze the predictors underscored here  in order to determine if the predictors are significant enough to predict the family income. Income of house can be a function of these independent variables. \(f(income)=({value,education, mortgage, age, gender})\), the best way to outline the function: \(family-income =28.37 + 28*Value + 0.652*Education - 0.050*Age - 0.001*Mortgage + 0.751*Gender)\). The purpose in the homework is not to interpret the model, but I can give some examples to interpret the model. I would simulate the model randomly by attributing the variables. For each additional value of home of \($1000\), the family income will increase by \($28\) on an average. Family income will increase on average by \($.652\) for each additional year getting education. An increase of a year of age after the means of age, \(37\), will decrease the family income on average by \($.050\). On average, the family income will increase \(0.751\)times greater when the head of the household is male than when it is a female. On average, the family income will decrease by \($ 0.001\) when the monthly mortgage payment increases by a one dollar. 
@@ -44,6 +44,7 @@ growth_data=data%>%
          rounded=round(Growth_rate,2))
 average_growth=mean(growth_data$rounded, na.rm = TRUE)
 ```
+The table for the growth rate can be seen in the pdf or rmarkdown format.
 
 
 ``` {r}
